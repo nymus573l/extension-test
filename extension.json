@@ -1,0 +1,8 @@
+{
+  "name": "Grim Cyberpunk Theme",
+  "id": "grim.theme.cyberpunk",
+  "version": "1.0.0",
+  "description": "A vibrant cyberpunk theme imported directly from GitHub via the Extension Registry.",
+  "author": "Vinci",
+  "entry": "main.js"
+}
