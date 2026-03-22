@@ -1,11 +1,7 @@
-/**
- * Grim Cyberpunk Theme Extension!
- * Once fetched from GitHub, the sandbox will run this setup automatically.
- */
+
 function activate(IDE) {
     IDE.log("Registering Cyberpunk Theme...");
     
-    // We exposed 'IDE.registerTheme' directly to the Sandbox just for this!
     IDE.registerTheme("grim-cyberpunk", {
         base: 'vs-dark',
         inherit: true,
@@ -35,7 +31,6 @@ function deactivate() {
     console.log("Cyberpunk theme extension unloaded.");
 }
 
-// Bind the IDE contract securely
 IDE.registerExtension({
     id: "grim.theme.cyberpunk",
     name: "Grim Cyberpunk Theme",
