@@ -7,6 +7,6 @@
   "main": "extension.js",
   "files": [
     "extension.js",
-    "manifest.json"
+    "extension.json"
   ]
 }
