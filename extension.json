@@ -1,0 +1,13 @@
+{
+  "id": "discord-presence",
+  "title": "Discord Rich Presence",
+  "version": "1.0.0",
+  "description": "Shows your current file, language, and workspace in Discord.",
+  "main": "main.js",
+  "backend": "backend.js",
+  "files": [
+    "extension.json",
+    "main.js",
+    "backend.js"
+  ]
+}
