@@ -6,21 +6,21 @@ function activate(IDE) {
         base: 'vs-dark',
         inherit: true,
         rules: [
-            { background: '0d0914' },
-            { token: 'keyword', foreground: 'ff7edb' },
-            { token: 'string', foreground: '00ff99' },
-            { token: 'comment', foreground: '848cb5', fontStyle: 'italic' },
-            { token: 'function', foreground: '36f9f6' },
-            { token: 'variable', foreground: 'ff2a6d' },
-            { token: 'number', foreground: 'f9c80e' }
+            { background: 'f0f1f4' },
+            { token: 'keyword', foreground: 'f0f1f4' },
+            { token: 'string', foreground: 'f0f1f4' },
+            { token: 'comment', foreground: 'f0f1f4', fontStyle: 'italic' },
+            { token: 'function', foreground: 'f0f1f4' },
+            { token: 'variable', foreground: 'f0f1f4' },
+            { token: 'number', foreground: 'f0f1f4' }
         ],
         colors: {
-            'editor.background': '#0d0914',
-            'editor.foreground': '#fdfdfd',
-            'editor.selectionBackground': '#ff2a6d40',
-            'editor.lineHighlightBackground': '#1f1633',
-            'editorCursor.foreground': '#00ff99',
-            'editorWhitespace.foreground': '#2d2145'
+            'editor.background': '#f0f1f4',
+            'editor.foreground': '#f0f1f4',
+            'editor.selectionBackground': '#f0f1f4',
+            'editor.lineHighlightBackground': '#f0f1f4',
+            'editorCursor.foreground': '#f0f1f4',
+            'editorWhitespace.foreground': '#f0f1f4'
         }
     });
 
