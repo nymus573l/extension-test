@@ -1,0 +1,12 @@
+{
+  "id": "synthwave-theme",
+  "version": "1.0.2",
+  "title": "SynthWave '84 Theme",
+  "description": "A retro cyberpunk theme giving your IDE a gorgeous, vibrant neon 80s aesthetic.",
+  "icon": "<svg width=\"32\" height=\"32\" viewBox=\"0 0 24 24\" fill=\"#f92aad\"><path d=\"M12 2L2 22h20L12 2z\"/><circle cx=\"12\" cy=\"14\" r=\"3\" fill=\"#36f9f6\"/></svg>",
+  "main": "extension.js",
+  "files": [
+    "extension.js",
+    "extension.json"
+  ]
+}
