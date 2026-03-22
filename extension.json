@@ -1,0 +1,8 @@
+{
+  "name": "Grim Sidebar Right",
+  "id": "grim.ui.sidebarRight",
+  "description": "An extension that demonstrates layout inversion by immediately moving the Sidebar to the right side of the screen.",
+  "author": "Vinci",
+  "version": "1.0.0",
+  "entry": "main.js"
+}
